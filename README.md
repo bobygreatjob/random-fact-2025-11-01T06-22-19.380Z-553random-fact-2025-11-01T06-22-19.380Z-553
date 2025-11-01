@@ -1,2 +1,5 @@
-# random-fact-2025-11-01T06-22-19.380Z-553random-fact-2025-11-01T06-22-19.380Z-553
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+In 1967, the IMAX film system was invented by Canadian Ivan Grame Ferguson to premier at Expo 67.
+
+*Generated on 2025-11-01T06:22:20.719Z*
